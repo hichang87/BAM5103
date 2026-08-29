@@ -9,3 +9,4 @@ wheels/
 # Virtual environments   .zip, .env, logs/
 .venv
 dataset.zip
+data/titanic3.csv
