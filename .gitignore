@@ -10,3 +10,6 @@ wheels/
 .venv
 dataset.zip
 data/titanic3.csv
+.env
+logs/
+data/
